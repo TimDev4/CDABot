@@ -1,0 +1,11 @@
+Privacy Policy We take your privacy seriously. Here is how we handle data:
+
+Data Collection: When you run a command (e.g., /export), the bot temporarily processes the messages in the targeted forum channel (Content, Usernames, Timestamps) to generate the document.
+
+Data Storage: We do not store any user data. The processing is done in the bot's temporary memory (RAM). Once the document is generated and sent to Discord, the data is discarded. We do not have a database.
+
+Third Parties: No data is shared with third parties.
+
+User Rights: Since we do not store data, there is no data to delete upon request.
+
+Contact: For any questions, you can contact the developer on discord: tmlps .
