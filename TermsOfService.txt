@@ -1,0 +1,9 @@
+Last Updated: 01/12/2025
+
+1. Terms of Service By using CDA, you agree to the following terms:
+
+Usage: The bot is designed to export Discord forum threads into Word documents. You may not use this bot to archive content that violates Discord's Community Guidelines.
+
+Liability: The service is provided "as is". The developer assumes no liability for data loss, incomplete exports, or service interruptions.
+
+Affiliation: This bot is an independent project and is not affiliated with Discord Inc. or Microsoft.
